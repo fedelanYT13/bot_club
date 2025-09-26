@@ -19,7 +19,7 @@ global.owner = ["5491156178758", "5491137612743"]
 
 global.botname = '𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 𝑾𝑨'
 global.namebot = '🌙 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 🌘'
-global.bot = 'SakuraBot'
+global.bot = 'Moonflare'
 global.packname = '🌘 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 🌙'
 global.wm = '☕ 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 𝑾𝑨'
 global.author = '🌙 𝑴𝒐𝒐𝒏𝒇𝒓𝒂𝒓𝒆 𝒕𝒆𝒂𝒎'
@@ -27,9 +27,8 @@ global.dev = '© 𝑴𝒂𝒅𝒆 𝒃𝒚 𝑫𝒆𝒗-𝒇𝒆𝒅𝒆𝒙𝒚
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.banner = 'https://cdn.stellarwa.xyz/files/1758842352363.jpeg'
-global.icon = 'https://cdn.stellarwa.xyz/files/1758842359325.jpeg'
-global.currency = 'Coins'
+
+global.currency = 'KaruCoins'
 global.sessions = 'auth'
 global.jadi = 'auth-sub'
 global.namedb = 'datos.json'
