@@ -1,5 +1,5 @@
 {
-  "name": "SenkoBot-MD",
+  "name": "Moonflare",
   "version": "0.0.9",
   "description": "Super WhatsApp Bot",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevAlexJs/SenkoBot-MD.git"
+    "url": "git+https://github.com/Dev-fedexyz13/Kaoruko-bot.git"
   },
   "keywords": [
     "whatsapp",
@@ -22,12 +22,12 @@
     "node",
     "nodejs"
   ],
-  "author": "DevAlexJs",
+  "author": "Dev-fedexyz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DevAlexJs/SenkoBot-MD/issues"
+    "url": "https://github.com/Dev-fedexyz13/Kaoruko-bot/issues"
   },
-  "homepage": "https://github.com/DevAlexJs/SenkoBot-MD#readme",
+  "homepage": "https://github.com/Dev-fedexyz13/Kaoruko-bot#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "github:gatanina-li/baileys",
     "@bochilteam/scraper": "^4.2.4",
