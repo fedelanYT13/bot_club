@@ -32,14 +32,16 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
 
-console.log(chalk.magentaBright('\nIniciando...'))
+console.log(chalk.magentaBright('\n🌙 Iniciando Moonflare...\n'))
 
-say('SenkoBot', {
-  font: 'simple',
-  align: 'left',
-  gradient: ['green', 'white']
+say('Kaoruko bot', {
+  font: 'block',
+  align: 'center',
+  gradient: ['red', 'yellow', 'green', 'cyan', 'blue', 'magenta'],
+  transitionGradient: true
 })
-say('Powered By Night Light', {
+
+say('Created By Dev-fedexyz', {
   font: 'console',
   align: 'center',
   colors: ['cyan', 'magenta', 'yellow']
