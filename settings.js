@@ -1,10 +1,18 @@
+/*
+// ☕ Créditos a Devfedexyz 
+//☕ Made by Dev-fedexyz*/
+
+//===================[ ☕ 𝑴𝒐𝒐𝒏𝒇𝒓𝒂𝒓𝒆 𝒕𝒆𝒂𝒎 🌙 ]=====================\\*
+
 import { watchFile, unwatchFile } from "fs"
 import chalk from "chalk"
 import { fileURLToPath } from "url"
 
 global.botNumber = ""
 
-global.owner = ["5492916450307"]
+// Número de owner
+global.owner = ["5491137612743", "5491156178758"]
+
 
 global.botname = '🦊 SenkoBot-MD'
 global.namebot = '🥗 Senko Bot'
