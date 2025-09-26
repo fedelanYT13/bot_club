@@ -8,19 +8,24 @@ import { watchFile, unwatchFile } from "fs"
 import chalk from "chalk"
 import { fileURLToPath } from "url"
 
+//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
+
 global.botNumber = ""
 
 // Número de owner
-global.owner = ["5491137612743", "5491156178758"]
+global.owner = ["5491156178758", "5491137612743"]
 
+//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = '🦊 SenkoBot-MD'
-global.namebot = '🥗 Senko Bot'
-global.bot = 'SenkoBot'
-global.packname = '🦊 𝗦𝗲𝗻𝗸𝗼𝗕𝗼𝘁-𝗠𝗗'
-global.wm = '🦎 𝙎𝙚𝙣𝙠𝙤𝘽𝙤𝙩-𝙈𝘿'
-global.author = '🥗 DevAlexJs'
-global.dev = '© Pᴏᴡᴇʀᴇᴅ Bʏ DᴇᴠAʟᴇxJs.'
+global.botname = '𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 𝑾𝑨'
+global.namebot = '🌙 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 🌘'
+global.bot = 'SakuraBot'
+global.packname = '🌘 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 🌙'
+global.wm = '☕ 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 𝑾𝑨'
+global.author = '🌙 𝑴𝒐𝒐𝒏𝒇𝒓𝒂𝒓𝒆 𝒕𝒆𝒂𝒎'
+global.dev = '© 𝑴𝒂𝒅𝒆 𝒃𝒚 𝑫𝒆𝒗-𝒇𝒆𝒅𝒆𝒙𝒚𝒛.'
+
+//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.banner = 'https://cdn.stellarwa.xyz/files/1758842352363.jpeg'
 global.icon = 'https://cdn.stellarwa.xyz/files/1758842359325.jpeg'
@@ -29,20 +34,19 @@ global.sessions = 'auth'
 global.jadi = 'auth-sub'
 global.namedb = 'datos.json'
 
+//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
+
 global.api = { 
 url: 'https://api.stellarwa.xyz',
 key: 'Diamond'
 }
 
 global.my = {
-  ch: '120363420992828502@newsletter',
-  name: '₊· ͟͟͞͞꒰ ✩ 𝐒𝐭𝐞𝐥𝐥𝐚𝐫 𝐖𝐚𝐁𝐨𝐭 - 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞✿',
+  ch: '120363423335018677@newsletter',
+  name: '🌙 𝑲𝒂𝒐𝒓𝒖𝒌𝒐 - 𝑩𝒐𝒕 𝑾𝑨 ⚡︎',
 
-  ch2: '120363203805910750@newsletter', 
-  name2: '⚶ ⊹ Max Evolution𝄢 ⊹',
-
-  ch3: '120363419837575209@newsletter',
-  name3: '⚶ ⊹ Night ⚡︎ Light - Team 𝄢 ⊹'
+  ch2: '120363423335018677@newsletter',
+  name3: '🌘 𝑴𝒐𝒐𝒏𝒇𝒓𝒂𝒓𝒆 𝒕𝒆𝒂𝒎 ☽'
 }
 
 const file = fileURLToPath(import.meta.url)
